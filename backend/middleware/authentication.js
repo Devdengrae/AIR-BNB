@@ -1,5 +1,5 @@
 const User = require("../models/User");
-// decter
+// dexter
 const jwt = require("jsonwebtoken");
 const { UnauthenticatedError } = require("../errors");
 
